@@ -1,1 +1,1 @@
-A crude implementation of the Vision Transformer Paper in Pytorch for didactic purposes.
+Simple implementation of the Vision Transformer paper in pytorch for didactic purposes.
